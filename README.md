@@ -13,6 +13,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+## 📊 My GitHub Stats
+
+![Heng's GitHub stats](https://github-readme-stats.vercel.app/api?username=hengkp&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hengkp&layout=compact)
 -->
 
 # Kriengkrai Phongkitkarun (Heng)
