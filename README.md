@@ -69,4 +69,9 @@ I believe the pursuit of knowledge never ends. I'm continuously updating my skil
 
 ---
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1500&color=3EA7FF&random=false&width=1200&lines=%E2%9C%A8+_%22Together%2C+let's+harness+the+power+of+data+and+innovation+to+build+a+healthier+world.%22_+%E2%9C%A8)](https://git.io/typing-svg)
+
+<!--
+https://readme-typing-svg.demolab.com/demo/
 ✨ _"Together, let's harness the power of data and innovation to build a healthier world."_ ✨
+-->
