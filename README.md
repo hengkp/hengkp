@@ -8,7 +8,7 @@
 
 Hi there! I'm Heng. I'm a Data Scientist and Researcher with a heart full of curiosity and a mind driven by innovation. My journey is about blending data science with biomedical engineering to craft solutions that make a difference in healthcare. 
 
-### 📖 What I Bring to the Table
+## 📖 What I Bring to the Table
 
 - **Data Science & Analytics:** Transforming complex data into actionable insights.
 - **Research & Development:** Pioneering in translational medicine and bioinformatics.
