@@ -8,29 +8,13 @@
 
 Hi there! I'm Heng. I'm a Data Scientist and Researcher with a heart full of curiosity and a mind driven by innovation. My journey is about blending data science with biomedical engineering to craft solutions that make a difference in healthcare. 
 
-
-## 🚀 Let's Create Impact Together!
-
-I am always on the lookout for new collaborations that push the boundaries of translational medicine and bioinformatics. If you're interested in pioneering healthcare solutions using data-driven approaches, let's connect and explore how we can make a meaningful impact together!
-
-### What I Bring to the Table
+### 📖 What I Bring to the Table
 
 - **Data Science & Analytics:** Transforming complex data into actionable insights.
 - **Research & Development:** Pioneering in translational medicine and bioinformatics.
 - **Tech & Coding:** Skills in Python, R, MATLAB, and more, with a knack for creating user-friendly interfaces and tools.
 
-
-## 📈 My Vision
-
-I envision a world where personalized healthcare is accessible to all. Leveraging multi-omics technologies and spatial tissue analysis, I aim to create solutions that tailor medical treatments to individual genetic profiles.
-
-
-## 🤝 Get in Touch
-
-Interested in discussing potential projects, research ideas, or just want to say hi? Reach out to me on [LinkedIn](https://linkedin.com/in/hengkp) or check out my [GitHub projects](https://github.com/hengkp). I'm always open to new ideas and collaborations!
-
-
-## 📖 Brief Background Snapshot
+## 🌟 Brief Background Snapshot
 
 - **Current Role:** Data Scientist at Mahidol University, Thailand.
 - **Education:** M.Eng. in Biomedical Engineering, B.Sc. in Chemical Engineering.
@@ -40,7 +24,7 @@ Interested in discussing potential projects, research ideas, or just want to say
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31zbi5sh6qzdlfqfsctc766nbh4a&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 
-## 🌟 Always Learning
+## 🚀 Always Learning
 
 I believe the pursuit of knowledge never ends. I'm continuously updating my skills in areas such as cloud computing, machine learning, and more, to stay at the forefront of technological innovation.
 
