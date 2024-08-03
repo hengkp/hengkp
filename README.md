@@ -21,8 +21,7 @@ Hi there! I'm Heng. I'm a Data Scientist and Researcher with a heart full of cur
 - **Key Expertise:** Data Analysis, Bioinformatics, Project Management.
 - **Interests:** Reading, Exploring new places, Sports, Music.
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31zbi5sh6qzdlfqfsctc766nbh4a&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31zbi5sh6qzdlfqfsctc766nbh4a&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31zbi5sh6qzdlfqfsctc766nbh4a&redirect=true)
 
 ## 🚀 Always Learning
 
