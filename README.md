@@ -2,9 +2,9 @@
 
 # Heng · Kriengkrai Phongkitkarun
 
-**One person. A team of AI. The work of a company.**
+**I see one person, with a team of AI, doing the work of a company.**
 
-คนเดียว กับทีม AI ทำงานได้เท่าบริษัท
+ผมเห็นคนคนเดียว ที่มีทีม AI ทำงานได้เท่าบริษัท
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-hengkp.github.io%2Fportfolio-000000?style=flat-square)](https://hengkp.github.io/portfolio/)
 [![X](https://img.shields.io/badge/Follow-@hengkkpk-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/hengkkpk)
@@ -15,8 +15,8 @@
 
 ---
 
-Content creator and tech and AI entrepreneur. Co-founder of [Happlen](https://happlen.com), with Ple ([@applepiece](https://github.com/applepiece)).
-I build products with AI agents as teammates, design the systems that make that work, and share what I learn in Thai on [X @hengkkpk](https://x.com/hengkkpk).
+I'm Heng, a creative builder who is strong in technology. I design systems, prototype fast, and count AI agents as teammates.
+Co-founder of [Happlen](https://happlen.com) with Ple ([@applepiece](https://github.com/applepiece)). I share AI know-how in Thai on [X @hengkkpk](https://x.com/hengkkpk).
 
 ## The lens
 
@@ -26,34 +26,34 @@ I build products with AI agents as teammates, design the systems that make that 
 4. **Science-grade rigour, applied to AI.** No invented numbers. Every value comes from a real run, and every failure is written down with its fix.
 5. **Build in public.** Receipts over opinions: a link, a screenshot or a demo you can try.
 
-## The team I run today
+## Four stories behind the lens
 
-Claude plans and writes the brief, Codex builds through two bridges I wrote, and the other model reviews: the author is never the only reviewer. A job typed into a team chat is picked up within two minutes and returns as a link. Every failure is written down with its symptom and its fix, and the system reads its own mistakes before the next run.
+**The years I watched cells.** Before agents, I watched single cells decide to divide and wrote the software that turns time-lapse images into numbers ([celltracking](https://github.com/hengkp/celltracking), open source). It became a first-author paper in 2025. The habit of proof comes from there, and AI has to be held to the same standard: when a model gives me a number, I want to see the run it came from.
 
-## What I've built
+**The family shop.** I built a pilot web app for sales and stock for my family's hardware shop, front end and back end, on my own. The best tool is the one people at the counter can use without reading a manual. Good technology gives people their time back.
+
+**Five problems in twenty-four hours.** Four hackathons in Super AI Engineer Season 6 ([showcase](https://hengkp.github.io/superaiss6/), every notebook open), and 1st runner-up at the Gill Capital Hackathon 2024 with an AI shop assistant that matches clothes to skin tone and occasion. A working prototype in a day beats a perfect plan in a month, as long as the pass or fail check exists from hour one.
+
+**The day agents became a team.** I wrote two bridges that let one model hand work to another on the same machine: Claude plans and writes the brief, Codex builds, and the other one reviews. A job typed into a team chat is picked up within two minutes and comes back as a link. [RTCF](https://rtcf.happlen.com) and [LearnBuddy](https://learnbuddy.happlen.com), free under Happlen, came out of this way of working.
+
+## What I'm building toward
+
+A company where a few people lead an AI team to do the work of a large one, with products that give people their time back.
+Systems first · lead agent teams · ship fast in verified steps · build once so other people can launch it themselves.
+
+## Open work
 
 | Project | What it does |
 |---|---|
-| [**RTCF**](https://rtcf.happlen.com) · [MCP server](https://github.com/hengkp/rtcf-mcp) | Happlen. Turns a rough request into a clear prompt in four parts: Role, Task, Context, Format. Thai and English, on the web and inside Claude and ChatGPT. |
-| [**LearnBuddy**](https://learnbuddy.happlen.com) | Happlen. Interactive lessons, free for every chapter. |
-| **Nucleus** (private) | Self-service front door to a research lab's 4-node Slurm cluster: launch JupyterLab, RStudio or Nextflow pipelines from a web catalog, each running under your own account. 1,147 commits. |
+| [**RTCF**](https://rtcf.happlen.com) · [MCP server](https://github.com/hengkp/rtcf-mcp) | Turns a rough request into a clear prompt in four parts: Role, Task, Context, Format. Thai and English, on the web and inside Claude and ChatGPT. |
+| [**LearnBuddy**](https://learnbuddy.happlen.com) | Interactive lessons, free for every chapter. |
 | [**Super AI Engineer S6 showcase**](https://hengkp.github.io/superaiss6/) | Four hackathons written up, with every notebook open. |
-| [**CoreAlign TMA**](https://github.com/hengkp/corealign-tma) | QuPath workflow that finds, orients and exports every core on a tissue microarray. One run per slide in v2.0, down from 3 to 4. |
+| [**CoreAlign TMA**](https://github.com/hengkp/corealign-tma) | QuPath workflow that finds, orients and exports every core on a tissue microarray. One run per slide in v2.0, down from 3 to 4. It stops and asks a person when unsure. |
 | [**attention-heatmaps**](https://github.com/hengkp/attention-heatmaps) | Paper-style attention and PCA patch maps from DINO, DINOv2 and DINOv3. |
-
-€3,000 · 1st runner-up, Gill Capital Hackathon 2024, with an AI shop assistant that matches clothes to skin tone and occasion.
+| [**celltracking**](https://github.com/hengkp/celltracking) | Turns time-lapse cell images into numbers. From the master's thesis. |
 
 ## Roots
 
-Chemical engineer. Then cells. Then code.
-
-| Year | Paper | Role |
-|---|---|---|
-| 2025 | [A chemically tunable FOXM1–DHFR sensor reveals the direct influence of FOXM1 on the cell cycle](https://doi.org/10.1242/jcs.263749) · *Journal of Cell Science* | First author |
-| 2025 | [Exploring the single-cell dynamics of FOXM1 under cell cycle perturbations](https://doi.org/10.1111/cpr.70019) · *Cell Proliferation* | Co-author |
-| 2026 | [A genome-wide RNAi screen identifies host cell cycle regulation as a determinant of *Orientia tsutsugamushi* infection](https://doi.org/10.64898/2026.05.08.723767) · bioRxiv | Co-author |
-| 2024 | Two abstracts, AACR Annual Meeting · *Cancer Research* supplement | Co-author |
-
-M.Eng. Biomedical Engineering, with the open-source [celltracking](https://github.com/hengkp/celltracking) app from the thesis · B.Eng. Chemical Engineering · AWS Certified Cloud Practitioner (2024) · Super AI Engineer, Season 6
+B.Eng. Chemical Engineering · M.Eng. Biomedical Engineering · AWS Certified Cloud Practitioner (2024) · Super AI Engineer, Season 6 · first-author paper in [*Journal of Cell Science*](https://doi.org/10.1242/jcs.263749), 2025
 
 **Stack:** Python · R · MATLAB · TypeScript · Swift · QuPath · Nextflow · Slurm · Docker · AWS · Supabase · PyTorch
